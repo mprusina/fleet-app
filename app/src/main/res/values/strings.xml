@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FreeNow Fleet</string>
+    <string name="title_list">Fleet List</string>
+    <string name="title_map">Map</string>
+    <string name="error_loading_data_message">Error loading data. Please refresh to try again</string>
+    <string name="error_no_network_message">No network. Please check connection and try again.</string>
+    <string name="vehicle_type_label">Vehicle Type:</string>
+    <string name="vehicle_id_label">ID:</string>
+    <string name="vehicle_location_label">Current Location:</string>
+</resources>
